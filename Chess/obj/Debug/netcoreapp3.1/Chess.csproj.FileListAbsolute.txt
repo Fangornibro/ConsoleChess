@@ -1,0 +1,58 @@
+C:\Users\kuzmi\Desktop\Chess\Chess\obj\Debug\netcoreapp3.1\Chess.csproj.AssemblyReference.cache
+C:\Users\kuzmi\Desktop\Chess\Chess\obj\Debug\netcoreapp3.1\Chess.AssemblyInfoInputs.cache
+C:\Users\kuzmi\Desktop\Chess\Chess\obj\Debug\netcoreapp3.1\Chess.AssemblyInfo.cs
+C:\Users\kuzmi\Desktop\Chess\Chess\obj\Debug\netcoreapp3.1\Chess.csproj.CoreCompileInputs.cache
+C:\Users\kuzmi\Desktop\Chess\Chess\bin\Debug\netcoreapp3.1\Chess.exe
+C:\Users\kuzmi\Desktop\Chess\Chess\bin\Debug\netcoreapp3.1\Chess.deps.json
+C:\Users\kuzmi\Desktop\Chess\Chess\bin\Debug\netcoreapp3.1\Chess.runtimeconfig.json
+C:\Users\kuzmi\Desktop\Chess\Chess\bin\Debug\netcoreapp3.1\Chess.runtimeconfig.dev.json
+C:\Users\kuzmi\Desktop\Chess\Chess\bin\Debug\netcoreapp3.1\Chess.dll
+C:\Users\kuzmi\Desktop\Chess\Chess\bin\Debug\netcoreapp3.1\Chess.pdb
+C:\Users\kuzmi\Desktop\Chess\Chess\obj\Debug\netcoreapp3.1\Chess.dll
+C:\Users\kuzmi\Desktop\Chess\Chess\obj\Debug\netcoreapp3.1\Chess.pdb
+C:\Users\kuzmi\Desktop\Chess\Chess\obj\Debug\netcoreapp3.1\Chess.genruntimeconfig.cache
+C:\Users\kuzmi\Desktop\Chess\Chess\obj\Debug\netcoreapp3.1\Chess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kuzmi\Desktop\Fangorn\Game\Chess\Chess\bin\Debug\netcoreapp3.1\Chess.exe
+C:\Users\kuzmi\Desktop\Fangorn\Game\Chess\Chess\bin\Debug\netcoreapp3.1\Chess.deps.json
+C:\Users\kuzmi\Desktop\Fangorn\Game\Chess\Chess\bin\Debug\netcoreapp3.1\Chess.runtimeconfig.json
+C:\Users\kuzmi\Desktop\Fangorn\Game\Chess\Chess\bin\Debug\netcoreapp3.1\Chess.runtimeconfig.dev.json
+C:\Users\kuzmi\Desktop\Fangorn\Game\Chess\Chess\bin\Debug\netcoreapp3.1\Chess.dll
+C:\Users\kuzmi\Desktop\Fangorn\Game\Chess\Chess\bin\Debug\netcoreapp3.1\Chess.pdb
+C:\Users\kuzmi\Desktop\Fangorn\Game\Chess\Chess\obj\Debug\netcoreapp3.1\Chess.csproj.AssemblyReference.cache
+C:\Users\kuzmi\Desktop\Fangorn\Game\Chess\Chess\obj\Debug\netcoreapp3.1\Chess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kuzmi\Desktop\Fangorn\Game\Chess\Chess\obj\Debug\netcoreapp3.1\Chess.AssemblyInfoInputs.cache
+C:\Users\kuzmi\Desktop\Fangorn\Game\Chess\Chess\obj\Debug\netcoreapp3.1\Chess.AssemblyInfo.cs
+C:\Users\kuzmi\Desktop\Fangorn\Game\Chess\Chess\obj\Debug\netcoreapp3.1\Chess.csproj.CoreCompileInputs.cache
+C:\Users\kuzmi\Desktop\Fangorn\Game\Chess\Chess\obj\Debug\netcoreapp3.1\Chess.dll
+C:\Users\kuzmi\Desktop\Fangorn\Game\Chess\Chess\obj\Debug\netcoreapp3.1\Chess.pdb
+C:\Users\kuzmi\Desktop\Fangorn\Game\Chess\Chess\obj\Debug\netcoreapp3.1\Chess.genruntimeconfig.cache
+C:\Users\kuzmi\Desktop\Fangorn\Game\Chess\Chess\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\kuzmi\Desktop\Fangorn\Game\Chess\Chess\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\kuzmi\Desktop\Fangorn\Game\Chess\Chess\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\kuzmi\Desktop\Fangorn\Game\Chess\Chess\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kuzmi\Desktop\Fangorn\Game\Chess\Chess\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kuzmi\Desktop\Fangorn\Game\Chess\Chess\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kuzmi\Desktop\Fangorn\Game\Chess\Chess\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\kuzmi\Desktop\Fangorn\Game\Chess\Chess\obj\Debug\netcoreapp3.1\Chess.csproj.CopyComplete
+C:\Users\kuzmi\Desktop\Розр. мультим. та ігр. сист\Chess\Chess\bin\Debug\netcoreapp3.1\Chess.exe
+C:\Users\kuzmi\Desktop\Розр. мультим. та ігр. сист\Chess\Chess\bin\Debug\netcoreapp3.1\Chess.deps.json
+C:\Users\kuzmi\Desktop\Розр. мультим. та ігр. сист\Chess\Chess\bin\Debug\netcoreapp3.1\Chess.runtimeconfig.json
+C:\Users\kuzmi\Desktop\Розр. мультим. та ігр. сист\Chess\Chess\bin\Debug\netcoreapp3.1\Chess.runtimeconfig.dev.json
+C:\Users\kuzmi\Desktop\Розр. мультим. та ігр. сист\Chess\Chess\bin\Debug\netcoreapp3.1\Chess.dll
+C:\Users\kuzmi\Desktop\Розр. мультим. та ігр. сист\Chess\Chess\bin\Debug\netcoreapp3.1\Chess.pdb
+C:\Users\kuzmi\Desktop\Розр. мультим. та ігр. сист\Chess\Chess\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\kuzmi\Desktop\Розр. мультим. та ігр. сист\Chess\Chess\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\kuzmi\Desktop\Розр. мультим. та ігр. сист\Chess\Chess\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\kuzmi\Desktop\Розр. мультим. та ігр. сист\Chess\Chess\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kuzmi\Desktop\Розр. мультим. та ігр. сист\Chess\Chess\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kuzmi\Desktop\Розр. мультим. та ігр. сист\Chess\Chess\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kuzmi\Desktop\Розр. мультим. та ігр. сист\Chess\Chess\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\kuzmi\Desktop\Розр. мультим. та ігр. сист\Chess\Chess\obj\Debug\netcoreapp3.1\Chess.csproj.AssemblyReference.cache
+C:\Users\kuzmi\Desktop\Розр. мультим. та ігр. сист\Chess\Chess\obj\Debug\netcoreapp3.1\Chess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kuzmi\Desktop\Розр. мультим. та ігр. сист\Chess\Chess\obj\Debug\netcoreapp3.1\Chess.AssemblyInfoInputs.cache
+C:\Users\kuzmi\Desktop\Розр. мультим. та ігр. сист\Chess\Chess\obj\Debug\netcoreapp3.1\Chess.AssemblyInfo.cs
+C:\Users\kuzmi\Desktop\Розр. мультим. та ігр. сист\Chess\Chess\obj\Debug\netcoreapp3.1\Chess.csproj.CoreCompileInputs.cache
+C:\Users\kuzmi\Desktop\Розр. мультим. та ігр. сист\Chess\Chess\obj\Debug\netcoreapp3.1\Chess.csproj.CopyComplete
+C:\Users\kuzmi\Desktop\Розр. мультим. та ігр. сист\Chess\Chess\obj\Debug\netcoreapp3.1\Chess.dll
+C:\Users\kuzmi\Desktop\Розр. мультим. та ігр. сист\Chess\Chess\obj\Debug\netcoreapp3.1\Chess.pdb
+C:\Users\kuzmi\Desktop\Розр. мультим. та ігр. сист\Chess\Chess\obj\Debug\netcoreapp3.1\Chess.genruntimeconfig.cache
